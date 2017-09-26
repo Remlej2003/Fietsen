@@ -163,5 +163,9 @@ iframe {
   border: 5px solid red;
   border-radius: 30px 30px 30px 30px;
 }
-
+#badges {
+  position: absolute;
+  top: -75px;
+  left: 300px;
+}
 @import url('https://fonts.googleapis.com/css?family=Wendy+One');
